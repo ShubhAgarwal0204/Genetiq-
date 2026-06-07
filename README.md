@@ -4,19 +4,6 @@ GenetiQ Precision Diagnostics is a modern health intelligence dashboard designed
 
 The goal of this project is to provide users with a precision-health experience where their diagnostic results, genetic health risks, and preventive care recommendations are presented in a simple, visual, and highly actionable format.
 
----
-
-## Preview
-
-### Total Health Dashboard
-
-![GenetiQ Total Health Dashboard](./assets/genetiq-total-health.png)
-
-### Cardiovascular System Dashboard
-
-![GenetiQ Cardiovascular Dashboard](./assets/genetiq-cardiovascular.png)
-
----
 
 ## Project Overview
 
